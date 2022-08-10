@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/nav-sk/nav-sk/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nav-sk/nav-sk/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -98,10 +98,19 @@
 ###
 
 <div align="center">
+  <a href="https://open.spotify.com/user/31mxywdytbbm6ghvsttlbcctqq3a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mxywdytbbm6ghvsttlbcctqq3a&width=700&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/nav-sk/count.svg?"  />
 </div>
 
 ###
+
 
 <!--
 **Naveen2004/Naveen2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
