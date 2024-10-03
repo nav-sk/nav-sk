@@ -1,6 +1,6 @@
 ![Banner](src/githubBanner.png)
 
-<h2 align="center">A CyberSec enthusiast, from Tamil Nadu, India.</h2>
+<h2 align="center">A Software Engineer, from Tamil Nadu, India.</h2>
 
 ###
 
